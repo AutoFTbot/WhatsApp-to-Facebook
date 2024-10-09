@@ -32,8 +32,10 @@ Proyek ini memungkinkan Anda untuk mengunggah video dari WhatsApp ke Facebook me
 
 3. **Konfigurasi:**
 
-   - Pastikan Anda memiliki `chromium-browser` terinstal di sistem Anda.
-   - Isi `PAGE_ID` dan `PAGE_ACCESS_TOKEN` di file `facebookUploader.js` dengan informasi dari akun Facebook Anda.
+    - Pastikan Anda memiliki `chromium-browser` terinstal di sistem Anda.
+    - Dapatkan `PAGE_ACCESS_TOKEN` Anda dari [http://aginvpn.me:8080](http://aginvpn.me:8080).
+    - Isi `PAGE_ID` dan `PAGE_ACCESS_TOKEN` di file `facebookUploader.js` dengan informasi dari akun Facebook Anda.
+
 
 4. **Jalankan aplikasi:**
 
